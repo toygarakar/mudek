@@ -1,4 +1,4 @@
-##Sürüm Geçmişi
+Sürüm Geçmişi
 
 v.1.7
 Sorulara ait öç.ler girilirken soru numarası ile birlikte tüm satırı öne çıkarır.
