@@ -1,5 +1,8 @@
 Sürüm Geçmişi
 
+v.1.8
+Dosya bütünlüğünü korumak için kodun görüntülenmesi kısıtlandırıldı.
+
 v.1.7
 Sorulara ait öç.ler girilirken soru numarası ile birlikte tüm satırı öne çıkarır.
 
