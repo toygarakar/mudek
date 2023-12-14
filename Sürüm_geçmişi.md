@@ -1,4 +1,5 @@
 Sürüm Geçmişi
+
 v.1.9
 Test_istatistik sekmesine öğrenci sayısı doğrulaması eklendi.
 Rapor yazdırma kısmına uyarı mesajı eklendi.
